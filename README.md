@@ -1,5 +1,5 @@
 
-## Hi! I'm Unity Developer. 
+## Hi! Now I'm Unity Developer. I have 2 years of commercial experience and at the beginning I work as Full Stack Web Developer.
 
 ### Technology Stack
 
