@@ -1,4 +1,3 @@
-[![NightTrainCode](https://github.com/MeeXaSiK/meexasik/blob/main/Logo/NightTrainCode%20Header.jpg)](https://www.youtube.com/c/NightTrainCode/)
 
 ## Hi! I'm Unity Developer. 
 
