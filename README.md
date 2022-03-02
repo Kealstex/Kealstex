@@ -18,12 +18,11 @@
 ![Blender](/img/skills/blender.svg)
 
 
-
 ### Follow Me
 
-[![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=telegram)](https://t.me/kealstex/)
-[![Instagram](https://img.shields.io/badge/-Instagram-090909?style=for-the-badge&logo=instagram&logoColor=CC397B)](https://instagram.com/zateckiy_goos/)
-[![VK](https://img.shields.io/badge/-VK-090909?style=for-the-badge&logo=vk&logoColor=318CE7)](https://vk.com/solvents)
+[![Telegram](/img/skills/telegram.svg)](https://t.me/kealstex/)
+[![Instagram](/img/skills/instagram.svg)](https://instagram.com/zatecky_goos/)
+[![IN](/img/skills/linkedin.svg)](https://vk.com/solvents)
 
 <!--
 **Kealstex/Kealstex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
