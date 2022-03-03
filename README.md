@@ -19,8 +19,13 @@
 ### My projects
 [![Amazing Racer](/img/projects/amazing%20racer.svg)](https://github.com/Kealstex/AmazingRacer)
 [![Amazing Sphere](/img/projects/amazing%20sphere.svg)](https://github.com/Kealstex/AmazingSphere)
-[![Captain Blaster](/img/projects/captainblaster.svg)](https://github.com/Kealstex/AmazingSphere)
-[![Smartrack 3D](/img/projects/smartrack3d.svg)](https://github.com/Kealstex/AmazingSphere)
+[![Captain Blaster](/img/projects/captainblaster.svg)](https://github.com/Kealstex/Captain-Blaster)
+[![Smartrack 3D](/img/projects/smartrack3d.svg)](https://github.com/Kealstex/Smartrack3D)
+
+### Presentation my own works project
+[![Smartrack 3D video](/img/projects/smartrack3d_video.svg)](https://youtu.be/WBtftwNi998)
+
+
 
 ### Follow Me
 
