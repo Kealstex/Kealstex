@@ -16,6 +16,11 @@
 ![FIGMA](/img/skills/figma.svg)
 ![Blender](/img/skills/blender.svg)
 
+### My projects
+[![Amazing Racer](/img/projects/amazing%20racer.svg)](https://github.com/Kealstex/AmazingRacer)
+[![Amazing Sphere](/img/projects/amazing%20sphere.svg)](https://github.com/Kealstex/AmazingSphere)
+[![Captain Blaster](/img/projects/captainblaster.svg)](https://github.com/Kealstex/AmazingSphere)
+[![Smartrack 3D](/img/projects/smartrack3d.svg)](https://github.com/Kealstex/AmazingSphere)
 
 ### Follow Me
 
