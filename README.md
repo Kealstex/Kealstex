@@ -1,5 +1,5 @@
 
-## Hi! Now I'm Unity Developer. I have 2 years of commercial experience and at the beginning I work as Full Stack Web Developer.
+## Hi! Now I'm Unity Developer. I have 3 years of commercial experience and at the beginning I work as Full Stack Web Developer.
 
 ### Technology Stack
 
@@ -25,25 +25,8 @@
 ### Presentation my own works project
 [![Smartrack 3D video](/img/projects/smartrack3d_video.svg)](https://youtu.be/WBtftwNi998)
 
-
-
 ### Follow Me
 
 [![Telegram](/img/skills/telegram.svg)](https://t.me/kealstex/)
 [![Instagram](/img/skills/instagram.svg)](https://instagram.com/zatecky_goos/)
 [![IN](/img/skills/linkedin.svg)](https://vk.com/solvents)
-
-<!--
-**Kealstex/Kealstex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
