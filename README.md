@@ -1,5 +1,5 @@
 
-## Hi! Now I'm Unity Developer. I have 3 years of commercial experience and at the beginning I work as Full Stack Web Developer.
+## Hi! Now I'm Unity Developer. I have 3 years of commercial experience and in the beginning, I work as a Full Stack Web Developer.
 
 ### Technology Stack
 
@@ -24,6 +24,9 @@
 
 ### Presentation my own works project
 [![Smartrack 3D video](/img/projects/smartrack3d_video.svg)](https://youtu.be/WBtftwNi998)
+
+### My projects in progress
+[![dots-shooter](/img/projects/dots-shooter.svg)](https://github.com/Kealstex/dots-urp-shooter)
 
 ### Follow Me
 
