@@ -1,5 +1,5 @@
 
-## Hi! Now I'm Unity Developer. I have 3 years of work experience and at the beginning I work as Full Stack Web Developer.
+## Hi! Now I'm Unity Developer. I have 3 years of work experience and at the beginning I worked as Full Stack Web Developer.
 
 ### Technology Stack
 
