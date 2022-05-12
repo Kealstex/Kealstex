@@ -27,6 +27,7 @@
 
 ### My projects in progress
 [![dots-shooter](/img/projects/dots-shooter.svg)](https://github.com/Kealstex/dots-urp-shooter)
+[![dots-shooter](/img/projects/galaxy-shooter.svg)](https://github.com/Kealstex/2DSpacingShooter)
 
 ### Follow Me
 
